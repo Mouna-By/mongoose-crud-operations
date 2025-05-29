@@ -131,10 +131,10 @@ const run = async () => {
 
   // await findPeopleByName("Alice");
   // await findOneByFood("Burritos");
-  // await findPersonById("PASTE_ID_HERE");
-  // await findEditThenSave("PASTE_ID_HERE");
+  // await findPersonById("68379bd3ed51d16b5cedef6e");
+  // await findEditThenSave("68379bd3ed51d16b5cedef6e");
   // await findAndUpdate("Bob");
-  // await removeById("PASTE_ID_HERE");
+  // await removeById("68379bd3ed51d16b5cedef6e");
   // await removeManyPeople();
   await queryChain();
 };
